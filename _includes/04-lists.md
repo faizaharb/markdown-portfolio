@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# Here is a list of  My Favorite 
+- walk on th beach
+- github learning
